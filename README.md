@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://cyber-punk-github-profile.vercel.app/api/titlebar?name=APO&title=Software+Engineer&subtitle=AI+%2F%2F+Cloud+%2F%2F+DevOps+%2F%2F+Cybersecurity&t=1788939142149" alt="contrib" />
   <img src="banner.png" alt="contrib" />
-  
+</div>
 <h1 align="center">👋 Hi there, I'm the person who argues with bugs at 2 AM ☕🐛</h1>
 
 <p align="center">
@@ -64,11 +64,11 @@ I want to create technology that helps people, inspires other developers, and pr
 ### 🎮 Life as a Developer
 
 ```
-  Level 1 : Learn the syntax ✅
-  Level 2 : Fight the bugs 🐛✅
-  Level 3 : Understand the architecture 🏗️✅
-  Level 4 : Build something amazing 🚀🔄
-  Level 5 : Repeat forever 🔁♾️
+Level 1 : Learn the syntax ✅
+Level 2 : Fight the bugs 🐛✅
+Level 3 : Understand the architecture 🏗️✅
+Level 4 : Build something amazing 🚀🔄
+Level 5 : Repeat forever 🔁♾️
 ```
 
 And honestly... I kind of like this game. 😎
@@ -81,8 +81,7 @@ And honestly... I kind of like this game. 😎
   <img src="https://img.shields.io/badge/the_best_version_of_my_code_and_myself-is_still_under_construction-1E90FF?style=for-the-badge" />
 </p>
 
-  
+<div align="center">
   <img src="https://cyber-punk-github-profile.vercel.app/api/stats?username=apobyte&t=1788939142149" alt="contrib" />
-  <br><br>
   <img src="https://cyber-punk-github-profile.vercel.app/api/contrib?username=apobyte&t=1788939142149" alt="contrib" />
 </div>
