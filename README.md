@@ -82,6 +82,5 @@ And honestly... I kind of like this game. 😎
 </p>
 
 <div align="center">
-  <img src="https://cyber-punk-github-profile.vercel.app/api/stats?username=apobyte&t=1788939142149" alt="contrib" />
   <img src="https://cyber-punk-github-profile.vercel.app/api/contrib?username=apobyte&t=1788939142149" alt="contrib" />
 </div>
