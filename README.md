@@ -64,11 +64,11 @@ I want to create technology that helps people, inspires other developers, and pr
 ### 🎮 Life as a Developer
 
 ```
-Level 1 : Learn the syntax ✅
-Level 2 : Fight the bugs 🐛✅
-Level 3 : Understand the architecture 🏗️✅
-Level 4 : Build something amazing 🚀🔄
-Level 5 : Repeat forever 🔁♾️
+  Level 1 : Learn the syntax ✅
+  Level 2 : Fight the bugs 🐛✅
+  Level 3 : Understand the architecture 🏗️✅
+  Level 4 : Build something amazing 🚀🔄
+  Level 5 : Repeat forever 🔁♾️
 ```
 
 And honestly... I kind of like this game. 😎
