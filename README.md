@@ -81,30 +81,6 @@ And honestly... I kind of like this game. 😎
   <img src="https://img.shields.io/badge/the_best_version_of_my_code_and_myself-is_still_under_construction-1E90FF?style=for-the-badge" />
 </p>
 
-<!--
-  💡 Tip: personalize this further by adding:
-  - Tech stack badges (https://skillicons.dev)
-  - GitHub stats card (https://github.com/anuraghazra/github-readme-stats)
-  - Social links (LinkedIn, Twitter/X, portfolio)
-  Example blocks are below — uncomment and edit with your info.
-
-  ### 🛠️ Tech Stack
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,docker,aws,git" />
-  </p>
-
-  ### 📊 GitHub Stats
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  </p>
-
-  ### 🔗 Connect With Me
-  <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  </p>
--->
-
   
   <img src="https://cyber-punk-github-profile.vercel.app/api/stats?username=apobyte&t=1788939142149" alt="contrib" />
   <br><br>
