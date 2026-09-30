@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://cyber-punk-github-profile.vercel.app/api/titlebar?name=APO&title=Software+Engineer&subtitle=AI+%2F%2F+Cloud+%2F%2F+DevOps+%2F%2F+Cybersecurity&t=1788939142149" alt="contrib" />
-  <img src="banner.png" alt="contrib" />
+  <img src="banner_1.png" alt="contrib" />
 </div>
 <h1 align="center">👋 Hi there, I'm the person who argues with bugs at 2 AM ☕🐛</h1>
 
